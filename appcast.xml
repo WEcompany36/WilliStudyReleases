@@ -6,13 +6,7 @@
         <language>en</language>
         <item>
             <title>v3.0</title>
-            <link>https://sparkle-project.org</link>
             <sparkle:version>2.0</sparkle:version>
-            <sparkle:releaseNotesLink>
-                https://you.com/app/2.0.html
-            </sparkle:releaseNotesLink>
-            <sparkle:fullReleaseNotesLink>
-                https://you.com/app/changelog.php
             </sparkle:fullReleaseNotesLink>
             <pubDate>Tue, 13 Aug 2024 11:00:00 +0000</pubDate>
             <enclosure url="https://github.com/WEcompany36/WilliStudyReleases/releases/download/prod/WilliStudy.dmg" length="1623481" type="application/octet-stream" sparkle:edSignature="WVyVJpOx+a5+vNWJVY79TRjFKveNk+VhGJf2iti4CZtJsJewIUGvh/1AKKEAFbH1qUwx+vro1ECuzOsMmumoBA==" />
